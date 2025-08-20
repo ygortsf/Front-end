@@ -6,9 +6,9 @@ import { Profile } from "@/components/Profile";
 export default function Home() {
   return (
     <div>
-      <h1>Site criado para a disciplina de Progrmação Front-End</h1>
+      <h1>Site criado para a disciplina de Programação Front-End</h1>
       <br/>
-      <Profile />
+      <Profile/>
     </div>
     
   );

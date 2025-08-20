@@ -11,6 +11,7 @@ export function Profile(){
         />
         <hr/>
         <br/>
+        <br/>
         <h1> Ygor de Tárcio</h1>
         <br/>
 
