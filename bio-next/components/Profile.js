@@ -13,8 +13,8 @@ export function Profile(){
         <h1 class="ygor"> Ygor de Tárcio</h1>
         <br/>
 
-        <p>Me chamo Ygor de Tárcio, tenho 19 anos e sou Aluno da disciplina Programação Front-End na Unicap, localizada no bairro da Boa Vista, Recife</p>
-        
+        <p>Me chamo Ygor de Tárcio, tenho 19 anos e sou Aluno da disciplina Programação Front-End na Unicap, localizada no bairro da Boa Vista, Recife.</p>
+        <p>A tecnologia é o motivo pelo qual despertei o desejo de aprender e de fato ingressar na área.</p>
         
         </>
     );
