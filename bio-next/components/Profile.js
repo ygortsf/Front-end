@@ -6,7 +6,7 @@ export function Profile(){
         <img
         src="/minha-foto.jpg"
         alt="Ygor de Tarcio"
-        className="photo"
+        class="photo"
         width={200}
         />
         <hr/>

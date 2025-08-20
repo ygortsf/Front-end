@@ -40,3 +40,10 @@ a {
     color-scheme: dark;
   }
 }
+
+img{
+ display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  border: 2px solid #333;
+}
