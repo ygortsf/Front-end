@@ -10,6 +10,7 @@ export function Profile(){
         width={200}
         />
         <hr/>
+        <br/>
         <h1> Ygor de Tárcio</h1>
         <br/>
 
