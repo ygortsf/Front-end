@@ -5,6 +5,8 @@ export function Profile(){
         src="/minha-foto.jpg"
         alt="Ygor de Tarcio"
         class="photo"
+        width={300}
+        height={300}
         />
         <h1> Ygor de Tárcio</h1>
 
