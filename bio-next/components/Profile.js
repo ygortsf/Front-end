@@ -2,7 +2,7 @@ export function Profile(){
     return(
         <>
         <img
-        src="minha-foto.jpg"
+        src="/minha-foto.jpg"
         alt="Ygor de Tarcio"
         class="photo"
         />
